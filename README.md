@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LuteJr
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Any JavaScript projects
 - 📫 How to reach me: office@fogart.ro
 
 <!---
